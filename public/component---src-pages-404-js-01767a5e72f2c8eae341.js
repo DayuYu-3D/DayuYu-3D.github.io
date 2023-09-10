@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("Wbzz");a.default=e=>{let{data:a}=e;return l.a.createElement("div",{className:"container"},l.a.createElement("div",{className:"row"},l.a.createElement("div",{className:"col"},l.a.createElement("h4",null,"找不到你的网页，本站所有页面为："),a.allSitePage.edges.map(e=>l.a.createElement(c.Link,{to:e.node.path,href:e.node.path,key:e.node.path},l.a.createElement("li",null,e.node.path))))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-01767a5e72f2c8eae341.js.map
